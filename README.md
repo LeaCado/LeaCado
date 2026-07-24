@@ -4,12 +4,12 @@
   <br>
   <br>
   <!--BANNER-->
-  <img width="100%" alt="f09e18ab-18cf-4b0c-b454-99399b1eb69c_removalai_preview" src="https://github.com/user-attachments/assets/7cadb1d8-2e0d-4e7b-a7cf-9ba6c10df08d" />
+  <img width="100%" alt="Kokomi_banner" src="https://github.com/user-attachments/assets/7cadb1d8-2e0d-4e7b-a7cf-9ba6c10df08d" />
   <br>
   <br>
   
   <!--ABOUT ME-->
-  <img align="absmiddle" height="80" alt="Kokomi1" src="https://github.com/user-attachments/assets/50fe5545-2d2a-4c21-a155-236c87ca164c" />
+  <img align="absmiddle" height="80" alt="Loving" src="https://github.com/user-attachments/assets/50fe5545-2d2a-4c21-a155-236c87ca164c" />
   <a href=""><img align="absmiddle" src="https://readme-typing-svg.demolab.com/?font=Regis&weight=500&size=50&duration=2000&pause=300&color=66b1f0&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=350&height=80&lines=%E0%AC%B3+About+me" /></a>
   <br>
   <pre>
@@ -22,7 +22,7 @@
   <hr>
 
   <!--SKILLS-->
-  <img align="absmiddle" height="80" alt="Kokomi3" src="https://github.com/user-attachments/assets/6366a2b6-202b-4325-b4ad-e0f636ff9848" />
+  <img align="absmiddle" height="80" alt="Locked_In" src="https://github.com/user-attachments/assets/6974f504-2664-4320-ab47-bf5bb9769ed7" />
   <a href=""><img align="absmiddle" src="https://readme-typing-svg.demolab.com/?font=Regis&weight=500&size=50&duration=2000&pause=300&color=66b1f0&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=250&height=80&lines=%E0%AC%B3+Skills" /></a>
   <br>
   <br>
@@ -36,13 +36,33 @@
   
   <hr>
 
-  <!--LINKS https://github.com/user-attachments/assets/19ffb3ca-5d6b-4540-b58e-5a8d6160c548-->
-  <img align="absmiddle" height="80" alt="Kokomi2" src="https://github.com/user-attachments/assets/ac2d8c2b-52fd-4ec7-a730-b5aa95c087fd" />
+  <!--GAMES-->
+  <img align="absmiddle" height="80" alt="Winning" src="https://github.com/user-attachments/assets/6366a2b6-202b-4325-b4ad-e0f636ff9848" />
+  <a href=""><img align="absmiddle" src="https://readme-typing-svg.demolab.com/?font=Regis&weight=500&size=50&duration=2000&pause=300&color=66b1f0&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=250&height=80&lines=%E0%AC%B3+Games" /></a>
+  <br>
+  <br>
+  <a><img src="https://img.shields.io/badge/Genshin Impact-abace7" alt="Genshin Impact"></a>
+  <a><img src="https://img.shields.io/badge/Honkai: Star Rail-b9bdec" alt="Honkai: Star Rail"></a>
+  <a><img src="https://img.shields.io/badge/VALORANT-96cbf4" alt="VALORANT"></a>
+  <a><img src="https://img.shields.io/badge/Fortnite-72aef5" alt="Fortnite"></a>
+  <a><img src="https://img.shields.io/badge/Wuthering Waves-6495f2" alt="Wuthering Waves"></a>
+  <a><img src="https://img.shields.io/badge/osu!-72aef5" alt="osu!"></a>
+  <a><img src="https://img.shields.io/badge/Minecraft-96cbf4" alt="Minecraft"></a>
+  <a><img src="https://img.shields.io/badge/Stardew Valley-b9bdec" alt="Stardew Valley"></a>
+  <a><img src="https://img.shields.io/badge/Terraria-abace7" alt="Terraria"></a>
+  <a><img src="https://img.shields.io/badge/Battlefield 6-b9bdec" alt="Battlefield 6"></a>
+  <br>
+  <br>
+  
+  <hr>
+
+  <!--LINKS-->
+  <img align="absmiddle" height="80" alt="Info" src="https://github.com/user-attachments/assets/ac2d8c2b-52fd-4ec7-a730-b5aa95c087fd" />
   <a href=""><img align="absmiddle" src="https://readme-typing-svg.demolab.com/?font=Regis&weight=500&size=50&duration=2000&pause=300&color=66b1f0&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=250&height=80&lines=%E0%AC%B3+Links" /></a>
   <br>
   <br>
   <a href="https://www.linkedin.com/in/lea-carelse"><img src="https://img.shields.io/badge/LinkedIn-96cbf6" alt="LinkedIn"></a>
-  <a href="https://enka.network/u/Kushina/1sictk/10000032/4339657/"><img src="https://img.shields.io/badge/enka.network-a9ade6" alt="Enka Network"></a>
+  <a href="https://enka.network/u/Kushina/1sictk/10000087/4455539/"><img src="https://img.shields.io/badge/enka.network-a9ade6" alt="Enka Network"></a>
   <br>
   <br>
 
